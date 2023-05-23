@@ -1,0 +1,5 @@
+C:\Users\Carlos Barcia\Documents\COdigos\EXAMEN 1ER PARCIAL\obj\Debug\net6.0\EXAMEN 1ER PARCIAL.csproj.AssemblyReference.cache
+C:\Users\Carlos Barcia\Documents\COdigos\EXAMEN 1ER PARCIAL\obj\Debug\net6.0\EXAMEN 1ER PARCIAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Barcia\Documents\COdigos\EXAMEN 1ER PARCIAL\obj\Debug\net6.0\EXAMEN 1ER PARCIAL.AssemblyInfoInputs.cache
+C:\Users\Carlos Barcia\Documents\COdigos\EXAMEN 1ER PARCIAL\obj\Debug\net6.0\EXAMEN 1ER PARCIAL.AssemblyInfo.cs
+C:\Users\Carlos Barcia\Documents\COdigos\EXAMEN 1ER PARCIAL\obj\Debug\net6.0\EXAMEN 1ER PARCIAL.csproj.CoreCompileInputs.cache
